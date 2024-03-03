@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Catch the button",
+"productVersion": "0.1",
+"dataUrl": "Github Test B.data.unityweb",
+"wasmCodeUrl": "Github Test B.wasm.code.unityweb",
+"wasmFrameworkUrl": "Github Test B.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#A6A6A6",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.34f1"
+}
